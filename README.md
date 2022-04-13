@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joaquín Accorsi.
 - 👀 I’m interested in Blockchain, Web3, Solidity, Design.
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning ReactJs and UX - UI Design.
 - 💞️ I’m looking to collaborate on Blockchain projects with a excelent team behind, organized and constantly updated.
 - 📫 How to reach me? Look the channels on my profile.
 
